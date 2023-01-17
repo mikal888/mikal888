@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikal888
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and video games dev. 
 - 🌱 I’m currently learning Pyhon and JS
 - 💞️ I’m looking to collaborate on radom project
 - 📫 How to reach me Micsau@hotmail.com
