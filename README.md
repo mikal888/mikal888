@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikal888
 - 👀 I’m interested in Python and video games dev. 
-- 🌱 I’m currently learning Pyhon and JS
-- 💞️ I’m looking to collaborate on radom project
+- 🌱 I’m currently using Pyhon and JS
+- 💞️ I’m looking to collaborate on random project
 - 📫 How to reach me Micsau@hotmail.com
 
 <!---
